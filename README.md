@@ -1,2 +1,3 @@
 # web-scrapping
-scrapping a website
+Extaracting indicators from a websites.
+
